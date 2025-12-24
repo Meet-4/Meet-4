@@ -17,7 +17,7 @@ I enjoy creating projects that are practical, polished, and fun, while constantl
 
 ## 🎯 Goals
 - Build high-quality, production-ready apps with smooth UI/UX.  
-- Explore AI + IoT integration in real-world solutions.  
+- Explore AI in real-world solutions.  
 - Contribute to open-source and participate in hackathons.
 
 ## 📊 GitHub Contribution Graph
