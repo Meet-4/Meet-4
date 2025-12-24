@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Meet-4
 
-🚀 A curious learner, builder, and developer who loves experimenting with web apps.  
+🚀 A curious learner, builder, and developer who loves experimenting with web apps, IoT projects, and Android apps.  
 I enjoy creating projects that are practical, polished, and fun, while constantly exploring new technologies.
 
 ## 💻 Tech Stack
@@ -17,7 +17,7 @@ I enjoy creating projects that are practical, polished, and fun, while constantl
 
 ## 🎯 Goals
 - Build high-quality, production-ready apps with smooth UI/UX.  
-- Explore AI in real-world solutions.  
+- Explore AI + IoT integration in real-world solutions.  
 - Contribute to open-source and participate in hackathons.
 
 ## 📊 GitHub Contribution Graph
@@ -36,7 +36,7 @@ I enjoy creating projects that are practical, polished, and fun, while constantl
 
 ## 📂 Check out my work and feel free to collaborate!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)] (https://www.linkedin.com/in/meet-sanchaniya-2a4193338?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meet-sanchaniya-2a4193338?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ## 📂 Check out my work and feel free to collaborate!
 - Projects, contributions and more on my GitHub profile.
