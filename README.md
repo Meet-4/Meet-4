@@ -1,42 +1,89 @@
-# 👋 Hi, I’m Meet-4
+<div align="center">
 
-🚀 A curious learner, builder, and developer who loves experimenting with web apps.  
-I enjoy creating projects that are practical, polished, and fun, while constantly exploring new technologies.
+# 👋 Hey, I'm Meet
+
+💻 Developer | 🚀 Builder | 🎯 Tech Explorer  
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+Enthusiast;Building+Cool+Projects;Always+Learning+New+Things" />
+
+</div>
+
+---
+
+## 🚀 About Me
+
+- 🔭 I’m currently working on **modern web applications**
+- 🌱 Learning **AI + Full Stack Development**
+- ⚡ I love building **clean UI & real-world projects**
+- 🎯 Goal: Become a **skilled full-stack developer**
+
+---
 
 ## 💻 Tech Stack
 
--> 🌐 Frontend Development  
-- React.js ⚛️ | Tailwind CSS 🎨 | JavaScript (ES6+) | HTML5 | CSS3  
+<div align="center">
 
--> 🔥 Backend & Database  
-- Firebase (Auth, Firestore, Hosting)  
-- Node.js
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,firebase,git,github,vscode,vercel" />
 
--> 🛠 Tools & Platforms  
-- Git & GitHub | VS Code | Vercel
+</div>
 
-## 🎯 Goals
-- Build high-quality, production-ready apps with smooth UI/UX.  
-- Explore AI in real-world solutions.  
-- Contribute to open-source and participate in hackathons.
+---
 
-## 📊 GitHub Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Meet-4&theme=react-dark)
+## 📊 GitHub Stats
 
-## 📈 GitHub Summary
-![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Meet-4&theme=github)
+<div align="center">
 
-## 🔥 Badges
+<img src="https://github-readme-stats.vercel.app/api?username=Meet-4&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Meet-4&theme=tokyonight&hide_border=true" height="150"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Meet-4&label=Profile%20Views&color=blue&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/Meet-4?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/Meet-4?style=for-the-badge)
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Meet-4&label=Visitors&countColor=%23263759)
-![Trophy](https://github-profile-trophy.vercel.app/?username=Meet-4&theme=onedark)
+</div>
 
-## 📂 Check out my work and feel free to collaborate!
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meet-sanchaniya-2a4193338?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+## 📈 Activity Graph
 
-## 📂 Check out my work and feel free to collaborate!
-- Projects, contributions and more on my GitHub profile.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Meet-4&theme=tokyo-night" />
+
+---
+
+## 🚀 Featured Projects
+
+- 🔹 **Inventory Management System** – Smart tracking system with analytics  
+- 🔹 **Mini Java Games** – Fun CLI-based games  
+- 🔹 **TUI File Manager** – Node.js terminal file manager  
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Meet-4&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/meet-sanchaniya-2a4193338">
+  <img src="https://img.shields.io/badge/LinkedIn-Meet-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</div>
+
+---
+
+## 💡 Quote
+
+> “Code. Build. Learn. Repeat.” 🚀
+
+---
+
+<div align="center">
+
+⭐️ From [Meet-4](https://github.com/Meet-4)
+
+</div>
