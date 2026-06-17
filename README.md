@@ -40,12 +40,6 @@
 
 ---
 
-## 📈 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Meet-4&theme=tokyo-night" />
-
----
-
 ## 🚀 Featured Projects
 
 - 🔹 **Inventory Management System** – Smart tracking system with analytics  
